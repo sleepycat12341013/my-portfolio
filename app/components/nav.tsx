@@ -24,7 +24,7 @@ export function Navbar() {
                   key={href}
                   href={href}
                   className="inline-block transform transition-transform duration-150 hover:scale-95
-                  hover:text-neutral-500 dark:hover:text-neutral-500 flex align-middle relative py-1 px-2 m-1"
+                  hover:text-[#F0A8BD] dark:hover:text-neutral-500 flex align-middle relative py-1 px-2 m-1"
                 >
                   {name}
                 </Link>

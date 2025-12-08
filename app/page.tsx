@@ -35,9 +35,7 @@ export default function Page() {
         className="inline-block transform transition-transform duration-150 hover:scale-95
                   text-white hover:text-[#F0A8BD] dark:hover:text-neutral-500 flex align-middle relative py-1 px-2 m-1"
       >
-        <a href="https://ai-chat-c8towcbli-sleepycat12341013-boops-projects.vercel.app/">
-          chatbot-app
-        </a>
+        <a href="https://ai-chat-bot-ten-orcin.vercel.app/">chatbot-app</a>
       </p>
       <p
         className="inline-block transform transition-transform duration-150 hover:scale-95

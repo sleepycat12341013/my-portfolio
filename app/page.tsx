@@ -28,6 +28,25 @@ export default function Page() {
       </p>
 
       <h1 className="text-[#F08BA8] mt-32 mb-8 text-4xl font-semibold tracking-wider">
+        Projects
+      </h1>
+      <p
+        id="deploy"
+        className="inline-block transform transition-transform duration-150 hover:scale-95
+                  text-white hover:text-[#F0A8BD] dark:hover:text-neutral-500 flex align-middle relative py-1 px-2 m-1"
+      >
+        <a href="https://ai-chat-c8towcbli-sleepycat12341013-boops-projects.vercel.app/">
+          chatbot-app
+        </a>
+      </p>
+      <p
+        className="inline-block transform transition-transform duration-150 hover:scale-95
+                  text-white hover:text-[#F0A8BD] dark:hover:text-neutral-500 flex align-middle relative py-1 px-2 m-1"
+      >
+        <a href="https://survey-app-peach-seven.vercel.app/">survey-app</a>
+      </p>
+
+      <h1 className="text-[#F08BA8] mt-32 mb-8 text-4xl font-semibold tracking-wider">
         Get In Touch
       </h1>
       <p className="mb-4 tracking-wide leading-loose">

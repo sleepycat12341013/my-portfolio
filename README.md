@@ -13,8 +13,7 @@ This is a porfolio site template complete with a blog. Includes:
 
 ## Demo
 
-https://portfolio-blog-starter.vercel.app
-
+https://my-portfolio-mu-ten-45.vercel.app/
 ## How to Use
 
 You can choose from one of the following two methods to use this repository:
